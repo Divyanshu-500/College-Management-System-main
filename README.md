@@ -51,7 +51,16 @@ The College Management System provides a centralized platform for administrators
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/Divyanshu-500/College-Management-System-main.git
+
 
 
 
