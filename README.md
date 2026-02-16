@@ -1,63 +1,59 @@
-🎓 College Management System
+# 🎓 College Management System
 
-A full-stack College Management System built using the MERN-style architecture (without React).
-The system digitizes academic and administrative operations for colleges.
+A full-stack College Management System web application developed using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.  
+This system automates academic and administrative activities such as student management, faculty management, attendance tracking, and result processing.
+
+---
+
+## 📌 Project Overview
+
+The College Management System provides a centralized platform for administrators, faculty, and students to manage college operations efficiently and securely.
+
+### 👨‍🎓 Students can:
+- Register and login
+- View profile information
+- Check attendance
+- View marks and results
+
+### 👩‍🏫 Faculty can:
+- Login securely
+- Add and update attendance
+- Upload marks
+- Manage assigned subjects
+
+### 🧑‍💼 Admin can:
+- Manage students and faculty
+- Add, update, and delete courses
+- Assign subjects
+- View system records
+
+---
+
+## 🚀 Features
+
+- Secure authentication using JWT
+- Password hashing using bcrypt
+- Role-based access control
+- RESTful APIs
+- Responsive UI
+- Modular backend architecture
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|------|-----------|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 📁 Project Structure
 
 
-
-📌 Project Overview
-
-This system allows:
-
-👨‍🎓 Students to view attendance and results
-
-👩‍🏫 Faculty to manage attendance & marks
-
-🧑‍💼 Admin to control the entire system
-
-It eliminates manual record-keeping and ensures secure data management.
-
-
-
-🏗️ System Architecture:
-Client (HTML/CSS/JS)
-        ↓
-Express Server (Node.js)
-        ↓
-MongoDB Database
-
-
-
-🚀 Core Features:
-
-🔐 Authentication-
-Secure password hashing (bcrypt)
-Role-based login system
-Session/JWT based access control
-
-👨‍🎓 Student Management-
-Register student
-Update student details
-View attendance
-View results
-
-👩‍🏫 Faculty Management-
-Add attendance
-Upload marks
-Manage subjects
-
-🧑‍💼 Admin Dashboard-
-Manage users
-Assign courses
-Delete records
-View analytics
-
-
-🛠️ Technology Stack
-Frontend	           HTML, CSS, JavaScript
-Backend	               Node.js, Express.js
-Database	           MongoDB
-Version Control	       Git & GitHub
 
 
 
